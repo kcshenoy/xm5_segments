@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+googletrans==4.0.0-rc1
+langdetect
+wordcloud
+nltk
